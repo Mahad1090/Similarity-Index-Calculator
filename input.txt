@@ -1,0 +1,4 @@
+Stop Words: the of also was a an is to it too
+2
+document1.txt
+document2.txt

@@ -1,0 +1,3 @@
+Stop Words: the of also was a an is to it too
+1
+document3.txt
